@@ -1,3 +1,5 @@
+MUST HAVE TO CREATE PLUGIN
+
 # check whether the tailwind is avialable or not by
 
 # inscept -> source -> _next/static -> css/app -> open the available file
