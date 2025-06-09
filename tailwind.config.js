@@ -22,6 +22,9 @@ module.exports = {
       4: "24px",
       5: "32px",
       6: "48px",
+      7: "92px",
+      8: "492px",
+      9: "592px",
     },
 
     fontFamily: {
@@ -29,6 +32,9 @@ module.exports = {
       serif: ["Merriweather", "serif"],
     },
     extend: {
+      margin: {
+        4: "20px",
+      },
       colors: {
         blue: "#1fb6ff",
         purple: "#7e5bef",
