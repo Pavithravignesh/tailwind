@@ -16,3 +16,7 @@ MUST HAVE TO CREATE PLUGIN
 ## color
 
 # you could able to use tailwind.config.js file to have you're own customized color plate available only for you!
+
+## text
+
+# you can able to use tailwind.config.js as well as global.css, on which you import fonts froms google fonts and make thing available for the whole project as well as particular a element or a class!
