@@ -25,8 +25,13 @@ module.exports = {
       7: "92px",
       8: "492px",
       9: "592px",
+      10: "692px",
+      11: "792px",
+      12: "892px",
+      13: "992px",
+      14: "1092px",
+      15: "1192px",
     },
-
     fontFamily: {
       sans: ["Graphik", "sans-serif"],
       serif: ["Merriweather", "serif"],
